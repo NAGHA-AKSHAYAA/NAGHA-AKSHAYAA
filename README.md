@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F8F8F2&center=true&vCenter=true&width=1000&height=70&background=000000&lines=Backend+Engineer;FastAPI+%7C+Golang+%7C+Redis;Building+Scalable+APIs+%26+Systems;LLM+Prompt+Engineer+%7C+AI+Tools+Dev)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=1000&height=80&background=000000&lines=R+Nagha+Akshayaa;Backend+Engineer;Building+Scalable+Systems;Innovating+with+AI-Powered+Automation)
+
 
 
 <!--
