@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=0&pause=999999&color=00FFC6&center=true&vCenter=true&width=1000&height=40&lines=R+Nagha+Akshayaa" alt="Static Name" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FAD02C&center=true&vCenter=true&width=1000&height=50&lines=Backend+Engineer;Building+Scalable+Systems;Innovating+with+AI-Powered+Automation" alt="Typing Subtext" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&pause=1000&color=7432F7&center=true&vCenter=true&width=435&lines=R+Nagha+Akshayaa)](https://git.io/typing-svg)
 
 
 
