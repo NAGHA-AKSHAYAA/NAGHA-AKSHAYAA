@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&pause=1000&color=7432F7&center=true&vCenter=true&width=435&lines=R+Nagha+Akshayaa)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=0&amp;pause=999999&amp;color=00FFC6&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=40&amp;lines=R+Nagha+Akshayaa" alt="Static Typing Name" />
+</p>
 
 
 
