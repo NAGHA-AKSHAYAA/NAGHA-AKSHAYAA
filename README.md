@@ -1,5 +1,9 @@
+<h1 align="center">
+  <strong style="font-family: Fira Code; color: #00FFC6;">R Nagha Akshayaa</strong>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=0&amp;pause=999999&amp;color=00FFC6&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=40&amp;lines=R+Nagha+Akshayaa" alt="Static Typing Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FAD02C&center=true&vCenter=true&width=1000&height=50&lines=Backend+Engineer;Building+Scalable+Systems;Innovating+with+AI-Powered+Automation" alt="Typing animation" />
 </p>
 
 
