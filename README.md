@@ -66,7 +66,7 @@ currently_learning: ["Large Language Models", "Kubernetes", "CI/CD"]
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/R_NAGHA_AKSHAYAA/)](https://leetcode.com/u/R_NAGHA_AKSHAYAA/)
 [![GitHub Badge](https://img.shields.io/badge/-NAGHA--AKSHAYAA-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/NAGHA-AKSHAYAA)](https://github.com/NAGHA-AKSHAYAA)
 [![GfG Badge](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/naghaakshayaa/)](https://www.geeksforgeeks.org/user/naghaakshayaa/)
-[![Orchid Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://example.com)
+[![Orchid Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1485-4749)
 
 
 
