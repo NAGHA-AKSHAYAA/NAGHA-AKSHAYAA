@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=1000&height=80&background=000000&lines=R+Nagha+Akshayaa;Backend+Engineer;Building+Scalable+Systems;Innovating+with+AI-Powered+Automation)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=00FFC6&center=true&vCenter=true&width=1000&height=90&lines=R+Nagha+Akshayaa;Backend+Engineer;Building+Scalable+Systems;Innovating+with+AI-Powered+Automation;R+Nagha+Akshayaa" alt="Typing SVG" />
+</p>
+
 
 
 
