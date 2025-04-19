@@ -1,3 +1,8 @@
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=99999&color=7AE2CF&center=true&vCenter=true&width=1000&height=50&lines=R+Nagha+Akshayaa" alt="R Nagha Akshayaa" />
 </p>
@@ -57,9 +62,6 @@ currently_learning: ["Large Language Models", "Kubernetes", "CI/CD"]
 [<img src="https://img.shields.io/badge/Microsoft%20Azure-000000?logo=microsoftazure&logoColor=white" alt="Azure logo" title="Azure" height="25" />](#)
 
 
-
-
-
 ### Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"&link=https://www.linkedin.com/in/nagha-akshayaa/)](https://www.linkedin.com/in/nagha-akshayaa/)
 [![Gmail Badge](https://img.shields.io/badge/-naghaakshayaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naghaakshayaa@gmail.com)](mailto:naghaakshayaa@gmail.com)
@@ -67,7 +69,7 @@ currently_learning: ["Large Language Models", "Kubernetes", "CI/CD"]
 [![GitHub Badge](https://img.shields.io/badge/-NAGHA--AKSHAYAA-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/NAGHA-AKSHAYAA)](https://github.com/NAGHA-AKSHAYAA)
 [![GfG Badge](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/naghaakshayaa/)](https://www.geeksforgeeks.org/user/naghaakshayaa/)
 [![Orchid Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1485-4749)
-
+[![Google Scholor Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citationshl=en&user=3OxA6j8AAAAJ)
 
 
 
