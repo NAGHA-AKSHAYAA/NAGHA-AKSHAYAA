@@ -1,4 +1,4 @@
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=48&duration=2500&pause=99999&color=7AE2CF&center=true&vCenter=true&width=1000&height=50&lines=R+Nagha+Akshayaa" alt="R Nagha Akshayaa" />
