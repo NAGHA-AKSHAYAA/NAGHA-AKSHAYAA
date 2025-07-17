@@ -32,7 +32,6 @@ technical_background:
   ]
 
 currently_learning: ["Large Language Models", "Kubernetes", "CI/CD"]
-2025 Goals: ["Start Freelancing in AI Automation Tools"]
 ```
 
 ### Tech Stack I Work With:
